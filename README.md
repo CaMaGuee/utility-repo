@@ -2,6 +2,7 @@
 
 <br/>
 <br/>
+
 <hr/>
 <br/>
 <br/>
@@ -19,6 +20,7 @@
 
 <br/>
 <br/>
+
 <hr/>
 <br/>
 <br/>
@@ -33,5 +35,8 @@
     <img src="https://img.shields.io/badge/Download-Windows_EXE-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   </a>
 </div>
+
+<br/>
+<br/>
 
 ---
