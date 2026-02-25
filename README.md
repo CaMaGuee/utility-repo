@@ -12,6 +12,9 @@
 
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
 
 <div align="center">
   <img src="./ASCII CONVERTER.ico" width="80" height="80">
