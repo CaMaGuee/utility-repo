@@ -43,4 +43,22 @@
 <br/>
 <br/>
 
+<hr/>
+<br/>
+<br/>
+
+<div id="EasyShare Fixer" align="center">
+  <img src="./EasyShare Fixer.ico" width="80" height="80">
+  <h3>EasyShare Fixer</h3>
+  <p>Windows 10/11 운영체제에서 네트워크 공유 폴더 접속 문제를 클릭 한 번으로 해결하는 자동화 도구입니다.</p>
+  <p>An automated tool that solves network shared folder access issues in Windows 10/11 operating systems with one click.</p>
+  <br/>
+  <a href="https://drive.google.com/file/d/1kF-y1pf5PxOYqowcqZe6p-zAQb31BT0f/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Download-Windows_EXE-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  </a>
+</div>
+
+<br/>
+<br/>
+
 ---
