@@ -5,6 +5,7 @@
 * [ASCII CONVERTER](#ascii-converter)
 * [EasyShare Fixer](#EasyShare-Fixer)
 * [Socket-Porter](SocketPorter)
+* [Net-Cut](Net-Cut)
 
 <br/>
 <br/>
@@ -74,6 +75,24 @@
   <p>An intuitive network file transfer tool that lets you share files easily and securely.</p>
   <br/>
   <a href="https://drive.google.com/file/d/19pNz9N86LdRq4oD-A01fbqrJFcOauFGy/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Download-Windows_EXE-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  </a>
+</div>
+
+<br/>
+<br/>
+
+<hr/>
+<br/>
+<br/>
+
+<div id="Net-Cut" align="center">
+  <img src="./Net_Cut.png" width="80" height="80">
+  <h3>Net-Cut</h3>
+  <p>A network management tool that instantly blocks unnecessary network adapters or disables all of them, leaving only the desired connections.</p>
+  <p></p>
+  <br/>
+  <a href="https://drive.google.com/file/d/1Phm3JzynW7mLP3n4Fta9rx8jgwK847Qx/view?usp=sharing">
     <img src="https://img.shields.io/badge/Download-Windows_EXE-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   </a>
 </div>
