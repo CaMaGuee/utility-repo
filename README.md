@@ -4,8 +4,8 @@
 * [S7 Bi-directional Simulation Bridge](#s7-bridge)
 * [ASCII CONVERTER](#ascii-converter)
 * [EasyShare Fixer](#EasyShare-Fixer)
-* [Socket-Porter](SocketPorter)
-* [Net-Cut](Net-Cut)
+* [Socket-Porter](#SocketPorter)
+* [Net-Cut](#Net-Cut)
 
 <br/>
 <br/>
